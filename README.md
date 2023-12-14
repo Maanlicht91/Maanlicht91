@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maanlicht91
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning css, javascript and pyhton
+- 🌱 I’m currently learning CSS, JavasScript and Python
 - 💞️ I’m looking to collaborate on projetcs
 - 📫 How to reach me by my mail: aynurdemir1991@hotmail.com
 
