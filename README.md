@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Maanlicht91
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning CSS, JavasScript and Python
+- 🌱 I have learnt HTML, CSS(sass,tailwind), JavaScript and NodeJS/Express with MongoDB
+- 🌱 I am currently learning ReactJs
 - 💞️ I’m looking to collaborate on projetcs
 - 📫 How to reach me by my mail: aynurdemir1991@hotmail.com
 
